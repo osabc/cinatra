@@ -695,7 +695,7 @@ If you want to use the latest iguana, please use the command `git submodule upda
 
 purecpp@163.com
 
-qq群：545605838
+线上讨论：[项目讨论](https://purecpp.cn/chatroom.html)
 
 [http://purecpp.cn/](http://purecpp.cn/ "purecpp")
 
